@@ -21,6 +21,11 @@
   from = "https://nandi.tech/discord"
   to = "https://discord.gg/QX6BkkFnwv"
 
+[[redirects]]
+  from = "https://nandi-tech.netlify.app/*"
+  to = "https://nandi.tech/:splat"
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
