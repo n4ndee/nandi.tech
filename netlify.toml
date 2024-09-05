@@ -4,20 +4,6 @@
   force = true
 
 [[redirects]]
-  from = "https://mta-sts.nandi.tech/.well-known/mta-sts.txt"
-  to = "https://mta-sts.nandi.tech/.well-known/mta-sts.txt"
-
-[[redirects]]
-  from = "https://mta-sts.nandi.tech/*"
-  to = "https://nandi.tech/:splat"
-  force = true
-
-[[redirects]]
-  from = "https://nandi.tech/.well-known/mta-sts.txt"
-  to = "https://mta-sts.nandi.tech/.well-known/mta-sts.txt"
-  force = true
-
-[[redirects]]
   from = "https://nandi.tech/discord"
   to = "https://discord.gg/QX6BkkFnwv"
 
