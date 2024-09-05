@@ -4,8 +4,9 @@
   force = true
 
 [[redirects]]
-  from = "https://mail.nandi.tech"
+  from = "https://mail.nandi.tech/*"
   to = "https://mail.google.com/a/nandi.tech"
+  force = true
 
 [[redirects]]
   from = "https://nandi.tech/discord"
