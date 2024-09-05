@@ -4,6 +4,10 @@
   force = true
 
 [[redirects]]
+  from = "https://mail.nandi.tech"
+  to = "https://mail.google.com/a/nandi.tech"
+
+[[redirects]]
   from = "https://nandi.tech/discord"
   to = "https://discord.gg/QX6BkkFnwv"
 
