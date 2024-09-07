@@ -13,10 +13,6 @@
   to = "https://mail.google.com/a/nandi.tech"
   force = true
 
-[[redirects]]
-  from = "https://nandi.tech/discord"
-  to = "https://discord.gg/QX6BkkFnwv"
-
 [[headers]]
   for = "/*"
   [headers.values]
