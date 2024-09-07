@@ -1,5 +1,5 @@
 baseURL = "https://nandi.tech"
-title = "Nándi Tech"
+title = "Nandi Tech"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
