@@ -8,11 +8,6 @@
   to = "https://nandi.tech/:splat"
   force = true
 
-[[redirects]]
-  from = "https://mail.nandi.tech/*"
-  to = "https://mail.google.com/a/nandi.tech"
-  force = true
-
 [[headers]]
   for = "/*"
   [headers.values]
