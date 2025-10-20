@@ -3,7 +3,7 @@ title = "Nandi Tech"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
+pagination.pagerSize = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -102,45 +102,45 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
+name = "Bluesky"
+icon = "fa-2x fa-brands fa-bluesky"
 weight = 1
+url = "https://bsky.app/profile/nandi.tech"
+target = "_blank"
+
+[[params.social]]
+name = "Github"
+icon = "fa-2x fa-brands fa-github"
+weight = 2
 url = "https://github.com/n4ndee"
 target = "_blank"
 
 [[params.social]]
 name = "Instagram"
-icon = "fa fa-2x fa-instagram"
-weight = 2
+icon = "fa-2x fa-brands fa-instagram"
+weight = 3
 url = "https://instagram.com/nandi.tech"
 target = "_blank"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 3
+icon = "fa-2x fa-brands fa-linkedin-in"
+weight = 4
 url = "https://linkedin.com/in/n4ndee"
 target = "_blank"
 
 [[params.social]]
 name = "Reddit"
-icon = "fa fa-2x fa-reddit-alien"
-weight = 4
+icon = "fa-2x fa-brands fa-reddit-alien"
+weight = 5
 url = "https://reddit.com/user/n4ndee"
 target = "_blank"
 
 [[params.social]]
 name = "Steam"
-icon = "fa fa-2x fa-steam"
-weight = 5
-url = "https://steamcommunity.com/id/n4ndee"
-target = "_blank"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fa-2x fa-brands fa-steam"
 weight = 6
-url = "https://twitter.com/n4ndee"
+url = "https://steamcommunity.com/id/n4ndee"
 target = "_blank"
 
 [languages.en]
